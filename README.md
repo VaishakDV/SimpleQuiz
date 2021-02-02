@@ -1,3 +1,3 @@
 # SimpleQuiz
 
-SimpleQuiz using javascript, HTML n CSS.
+Simple multiple choice quiz using javascript, HTML n CSS.
